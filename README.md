@@ -20,17 +20,20 @@ Built on [simple-react-full-stack](https://github.com/crsandeep/simple-react-ful
  To deploy the up You need to just run one command
 `docker-compose up`
  All variables needed to deploy are stored in .env file:
-#**Node app config**
+
+**Node app config**
  - `APP_CONTAINER_NAME=`
  - `APP_PORT=`
  - `APP_DOMAIN=`
-#**Emali config**
+
+**Emali config**
  - `EMAIL_HOST=`
  - `EMAIL_PORT=`
  - `EMAIL_USER=`
  - `EMAIL_PASS=`
  - `EMAIL_RECIVER=`
-#**MySQL config**
+
+**MySQL config**
  - `MYSQL_PASSWORD=`
  - `MYSQL_CONTAINER_NAME=`
  - `MYSQL_PORT=`
