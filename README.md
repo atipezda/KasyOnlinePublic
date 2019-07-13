@@ -37,3 +37,5 @@ Built on [simple-react-full-stack](https://github.com/crsandeep/simple-react-ful
  - `MYSQL_PASSWORD=`
  - `MYSQL_CONTAINER_NAME=`
  - `MYSQL_PORT=`
+
+Mysql Database container will be run with create schema .sql script
